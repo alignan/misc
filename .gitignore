@@ -1,0 +1,14 @@
+*.[oa]
+*~
+*.pyc
+build
+#*#
+.gdb*
+*.exec
+*.bak
+*.bb
+*.branch
+TAGS
+apps/tests/wns/tunit/reports/*
+*apps/tests/wns/tunit/tests-failed.log
+.tunitPath*
