@@ -1,0 +1,6 @@
+Compiled with:
+  msp430-gcc (GCC) 4.7.0 20120322 (mspgcc dev 20120716)
+TinyOS:
+ Commit N. cbbddf66ee8acbbc87fe316e7077cc1144968d88
+ Date:   Fri Apr 25 17:22:06 2014 +0200
+
